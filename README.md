@@ -4,7 +4,7 @@ An interactive room-redesign prototype: upload a room photo, set design preferen
 
 ## Try it
 
-Open `index.html` using a local static server, or publish the repository root with GitHub Pages.
+[Open Room Edit](https://stellazhang444.github.io/room-edit/) — no sign-up required.
 
 1. Start a new project and upload a photo, or choose a Living room example.
 2. Select a room type and visual style. Optionally add colors, materials, items to retain, a budget, reference images, and notes.
